@@ -36,6 +36,6 @@ If you dont know how to run python in vs code you should click [here](https://co
 - [Write a Python program to display the first and last colours from the following list: color_list = ["Red","Green","White" ,"Black"]](https://github.com/vagabon-09/Python/blob/master/Questions/PrintFirstLast.py)
 - [Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.](https://github.com/vagabon-09/Python/blob/master/Questions/MultiplyN.py)
 
-# Aurthor
+# Author
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
 
