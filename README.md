@@ -39,3 +39,6 @@ If you dont know how to run python in vs code you should click [here](https://co
 # Author
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
 
+# Contribution
+Hello guys hope you will like to contribute in this repository for python short notes. Your any types of contribution is acceptable so contribute. And if you like this repository then dont forget to give a star.
+
