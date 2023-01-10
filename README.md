@@ -22,7 +22,7 @@ If you dont know how to run python in vs code you should click [here](https://co
 - To use for loop use `for variable_name in array_name: print(variable_name)`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/ForLoop.py)
 
 
-## String
+### String
 - Declear String `string_name = "string"`
 - Print String `print(string_name)`
 - Print targeted letter in string `string_name.count('target_letter')`
