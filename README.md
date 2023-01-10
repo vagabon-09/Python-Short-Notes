@@ -31,10 +31,10 @@ If you dont know how to run python in vs code you should click [here](https://co
 
 
 # Questions
-- Write a Python program which accepts the radius of a circle from the user and compute the area.
-- Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
-- Write a Python program to display the first and last colours from the following list: color_list = ["Red","Green","White" ,"Black"] 
-- Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+- [Write a Python program which accepts the radius of a circle from the user and compute the area](https://github.com/vagabon-09/Python/blob/master/Questions/CircleRadius.py)
+- [Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them](https://github.com/vagabon-09/Python/blob/master/Questions/ReverseString.py)
+- [Write a Python program to display the first and last colours from the following list: color_list = ["Red","Green","White" ,"Black"]](https://github.com/vagabon-09/Python/blob/master/Questions/PrintFirstLast.py)
+- [Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.](https://github.com/vagabon-09/Python/blob/master/Questions/MultiplyN.py)
 
 # Aurthor
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
