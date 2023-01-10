@@ -18,6 +18,10 @@ If you dont know how to run python in vs code you should click [here](https://co
 - Print targeted letter in string `string_name.count('target_letter')`
 - Check length of the string `len(string_name)`
 - Print string in customise way `string_name[start:end:difference]`
+# Questions
+- Write a Python program which accepts the radius of a circle from the user and compute the area.
+- Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
+- Write a Python program to display the first and last colours from the following list: color_list = ["Red","Green","White" ,"Black"] 
 # Aurthor
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
 
