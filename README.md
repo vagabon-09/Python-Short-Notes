@@ -17,6 +17,7 @@ If you dont know how to run python in vs code you should click [here](https://co
 - Print String `print(string_name)`
 - Print targeted letter in string `string_name.count('target_letter')`
 - Check length of the string `len(string_name)`
+- Print string in customise way `string_name[start:end:difference]`
 # Aurthor
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
 
