@@ -13,4 +13,4 @@ If you dont know how to run python in vs code you should click [here](https://co
 ### Loop
 - To use for loop use `for variable_name in array_name: print(variable_name)`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/ForLoop.py)
 # Aurthor
-<a target="_blank" href="https://github.com/vagabon-09"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/vagabon-09"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
