@@ -1,4 +1,6 @@
+![icons8-python-96](https://user-images.githubusercontent.com/89797141/211556749-2983262f-f91e-43c0-9aba-0ec175e6c364.png)
 # Python
+
 ## How to run python in vs code?
 If you dont know how to run python in vs code you should click [here](https://code.visualstudio.com/docs/python/python-tutorial)
 # Python Notes
