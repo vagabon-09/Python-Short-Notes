@@ -1,5 +1,5 @@
 # In this program we will see how to print string from a lenth to a destination lenth
-"""asume name is a string where name[start:end:difference]"""
+#name[start:end:difference]
 name = "Rajesh Bhadra"
 # Printing from 7 to the end of the string
 print(name[7:])
