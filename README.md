@@ -35,6 +35,13 @@ If you dont know how to run python in vs code you should click [here](https://co
 - [Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them](https://github.com/vagabon-09/Python/blob/master/Questions/ReverseString.py)
 - [Write a Python program to display the first and last colours from the following list: color_list = ["Red","Green","White" ,"Black"]](https://github.com/vagabon-09/Python/blob/master/Questions/PrintFirstLast.py)
 - [Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.](https://github.com/vagabon-09/Python/blob/master/Questions/MultiplyN.py)
+- [Write a Python program to test whether a passed letter is a vowel or not.](https://github.com/vagabon-09/Python/blob/9efac67d5cf2a5664e3c033b94265c7cd5fdf846/Questions/Vowel.py)
+- [Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/Ncopies.py)
+- [Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user.](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/EvenOrOdd.py)
+- [Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference.](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/DifferenceBtnGiven.py)
+- [Write a Python program to count the number 4 in a given list](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/CountDublicate.py)
+- [Write a Python program to get a string which is n (non-negative integer) copies of a given string.](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/CopiesString.py)
+- [Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum.](https://github.com/vagabon-09/Python/blob/c4ad925250e3acb84a665354d539820865d5c6ad/Questions/CalculateThreeNumber.py)
 
 # Author
 <a href="https://github.com/vagabon-09" target="_blank" rel="noopener noreferrer"><img style="width:60px;height:60px;" src="https://user-images.githubusercontent.com/89797141/211546895-65e17390-5f8e-41e4-88be-1581133bad13.png" alt="Avatar"></a>
