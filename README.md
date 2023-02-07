@@ -28,7 +28,7 @@ If you dont know how to run python in vs code you should click [here](https://co
 - Print targeted letter numbers in string `string_name.count('target_letter')` [Example](https://github.com/vagabon-09/Python/blob/master/Lab/String/NumberOfLetter.py)
 - Check length of the string `len(string_name)`[Example](https://github.com/vagabon-09/Python/blob/master/Lab/String/LengthString.py)
 - Print string in customise way `string_name[start:end:difference]`[Example](https://github.com/vagabon-09/Python/blob/master/Lab/String/PrintString2.py)
-
+- To check a string is a digit or not `stringName.isdigit()` this function return boolen if string is a digit it will return `true` else it will return `false`
 
 # Questions
 - [Write a Python program which accepts the radius of a circle from the user and compute the area](https://github.com/vagabon-09/Python/blob/master/Questions/CircleRadius.py)
