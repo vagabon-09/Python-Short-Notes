@@ -12,7 +12,6 @@ If you dont know how to run python in vs code you should click [here](https://co
 - To display use `print()`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/print.py)
 - To scan value from user use `input()`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/scan.py)
 
-
 ### Condition
 - To use if condition use `if condition : code else: code`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/IfCondition.py) 
 - To use else if condition or nested if use `if condition: code elif condition: code else: code`  [Example](https://github.com/vagabon-09/Python/blob/master/Class/ElseIf.py)
@@ -29,6 +28,8 @@ If you dont know how to run python in vs code you should click [here](https://co
 - Check length of the string `len(string_name)`[Example](https://github.com/vagabon-09/Python/blob/master/Lab/String/LengthString.py)
 - Print string in customise way `string_name[start:end:difference]`[Example](https://github.com/vagabon-09/Python/blob/master/Lab/String/PrintString2.py)
 - To check a string is a digit or not `stringName.isdigit()` this function return boolen if string is a digit it will return `true` else it will return `false`
+- To get ascii value of a charecter use ord()
+
 
 # Questions
 - [Write a Python program which accepts the radius of a circle from the user and compute the area](https://github.com/vagabon-09/Python/blob/master/Questions/CircleRadius.py)
