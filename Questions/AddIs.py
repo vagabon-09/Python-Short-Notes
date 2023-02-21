@@ -5,3 +5,4 @@ if sValue[0:2:] == "is" :
 else:
     print("is "+sValue)
 
+ 

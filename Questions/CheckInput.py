@@ -1,6 +1,5 @@
 # Write a Python program to input a number, if it is not a number generates an error message.
 n = input("Enter a input: ")
-sN = int("r")
 sN = n.isdigit()
 if (sN):
     print("Yes")
